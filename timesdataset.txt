@@ -1,4 +1,4 @@
-Time, qtd_titulos_1div, estado, divisao_atual, 
+Time, qtd_titulos_1div, estado, divisao_atual
 Palmeiras, 10, SP, 1
 Santos, 8, SP, 1
 Corinthians, 7, SP, 1
